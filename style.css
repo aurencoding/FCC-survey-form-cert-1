@@ -1,0 +1,31 @@
+#survey-form {
+    max-width: 600px;
+    margin: 20px auto;
+  }
+    
+  #title {
+    font-family: monospace;
+    font-size: 50px;
+    text-align: center;
+    color: purple;
+    margin: 0;
+  }
+  
+  p {
+    text-align: center;
+    color: purple;
+    font-family: arial;
+    margin-bottom: 40px;
+  }
+  
+  #textarea {
+    margin: 20px 0;
+    height: 200px;
+    width: 600px;
+  }
+  
+  /* how to get things on top of each other */
+  
+  /* make the submit button aesthetic */
+  
+  /* how  */
